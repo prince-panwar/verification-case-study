@@ -26,7 +26,7 @@ This is an independent technical report. It has not been peer reviewed.
   type        = {Technical report},
   year        = {2026},
   month       = oct,
-  url         = {https://github.com/prince-panwar/smart-contract-verification-case-study}
+  url         = {https://github.com/prince-panwar/verification-case-study}
 }
 ```
 

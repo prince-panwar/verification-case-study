@@ -2,6 +2,8 @@
 
 **Prince Panwar** · Independent technical report · October 2026
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23432763.svg)](https://doi.org/10.5281/zenodo.23432763)
+
 **[Read the report (PDF)](./Panwar_2026_Verification_Methods_Case_Study.pdf)**
 
 ## Abstract
@@ -26,7 +28,8 @@ This is an independent technical report. It has not been peer reviewed.
   type        = {Technical report},
   year        = {2026},
   month       = oct,
-  url         = {https://github.com/prince-panwar/verification-case-study}
+  doi         = {10.5281/zenodo.23432763},
+  url         = {https://doi.org/10.5281/zenodo.23432763}
 }
 ```
 
